@@ -6,3 +6,4 @@
 /Simple-Kafka/Simple-Kafka-Consumer/bin/Debug/*.xml
 /Simple-Kafka/Simple-Kafka-Consumer/obj
 /Simple-Kafka/Simple-Kafka-Producer/obj
+/Simple-Kafka/Simple-Kafka-Consumer/.vs/Simple-Kafka-Consumer.csproj.dtbcache.json
