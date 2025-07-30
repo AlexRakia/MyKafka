@@ -12,6 +12,7 @@ namespace Simple_Kafka_Consumer
             var topic = Console.ReadLine();
             string dynamicGroup = $"consumer-group-{DateTime.Now:yyyyMMdd-HHmmss-fff}";
             Simple_Kafka_Consumer.ConsumeMessages(server, topic, dynamicGroup);
+            //Simple_Kafka_Consumer.ConsumeMessages(server, topic);
         }
     }
 }
